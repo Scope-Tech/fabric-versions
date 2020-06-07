@@ -1,2 +1,2 @@
 # fabric-versions
-A basic single page website for getting the latest versions for fabric.
+一个获得fabric最新版本的单页网站。
